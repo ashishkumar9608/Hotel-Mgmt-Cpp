@@ -19,10 +19,11 @@ Food Management Module: In the food management module, users can place food orde
 *Chicken rolls
 Additionally, the project provides comprehensive information on sales and revenue collection for both room reservations and food orders
 ## 📸 Screenshots 📸
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
+![image](https://github.com/ashishkumar9608/Hotel-Mgmt-Cpp/assets/101400774/06cc3812-2a25-4755-abec-d7588a7e044c)
+![image](https://github.com/ashishkumar9608/Hotel-Mgmt-Cpp/assets/101400774/d5ac73e7-a70a-4d09-b67c-001f4166e917)
+![image](https://github.com/ashishkumar9608/Hotel-Mgmt-Cpp/assets/101400774/d98c01f0-aae7-48e5-a30b-ef27ca852722)
+![image](https://github.com/ashishkumar9608/Hotel-Mgmt-Cpp/assets/101400774/049f312e-8005-4a5c-9b97-76372823e96a)
+
 ## 🎰Technologies 🎰
 The project leverages object-oriented programming through the use of classes and employs file handling techniques to effectively store and manipulate customer, room, and food data. It further enhances the user experience by incorporating intuitive menus and interfaces. Notably, the project includes robust input validation procedures, ensuring that users receive clear and informative feedback for both erroneous inputs and successful operations.
 
