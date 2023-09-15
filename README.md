@@ -1,4 +1,4 @@
-# 🏨 Hotel Management System using C++ 🏨
+#  C++-Based Hotel Management System 
 This project is an all-encompassing and user-friendly hotel management system designed to simplify room booking and food ordering procedures. It has been created using the C++ programming language.
 
 ## 📋 Features 📋
@@ -23,7 +23,7 @@ Additionally, the project provides comprehensive information on sales and revenu
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
-## 💻 Technologies 💻
+## 🎰Technologies 🎰
 The project leverages object-oriented programming through the use of classes and employs file handling techniques to effectively store and manipulate customer, room, and food data. It further enhances the user experience by incorporating intuitive menus and interfaces. Notably, the project includes robust input validation procedures, ensuring that users receive clear and informative feedback for both erroneous inputs and successful operations.
 
 ## 🚀 How to run 🚀
